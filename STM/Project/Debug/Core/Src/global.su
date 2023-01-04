@@ -1,0 +1,2 @@
+global.c:25:6:update_global_time	4	static
+global.c:34:6:writeMess	48	static
